@@ -1,12 +1,14 @@
 {
-  "categories": {
-    "name": "Món Chiên",
-    "dishes": [
-      {
-        "name": "Chả ốc lá lốt (200gr - đã chiên sơ)",
-        "price": 30,
-        "description": "Chả ốc nhà Tép giòn sần sật, thơm mùi lá lốt nhà trồng và nấm hương rừng."
-      }
-    ]
-  }
+  "categories": [
+    {
+      "name": "Món Chiên",
+      "dishes": [
+        {
+          "name": "Chả ốc lá lốt (200gr - đã chiên sơ)",
+          "price": 30,
+          "description": "Chả ốc nhà Tép giòn sần sật, thơm mùi lá lốt nhà trồng và nấm hương rừng."
+        }
+      ]
+    }
+  ]
 }
